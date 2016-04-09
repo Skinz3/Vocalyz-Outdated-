@@ -1,0 +1,22 @@
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\bin\Debug\Test.exe.config
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\bin\Debug\Test.exe
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\bin\Debug\Test.pdb
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\bin\Debug\Vocalyz.dll
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\bin\Debug\Vocalyz.pdb
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\obj\Debug\Test.exe
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\obj\Debug\Test.pdb
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Test\obj\Debug\Test.TestForm.resources
+C:\Users\Skinz\Desktop\Vocalyz\Test\bin\Debug\Test.exe.config
+C:\Users\Skinz\Desktop\Vocalyz\Test\obj\Debug\Test.exe
+C:\Users\Skinz\Desktop\Vocalyz\Test\obj\Debug\Test.pdb
+C:\Users\Skinz\Desktop\Vocalyz\Test\bin\Debug\Test.exe
+C:\Users\Skinz\Desktop\Vocalyz\Test\bin\Debug\Test.pdb
+C:\Users\Skinz\Desktop\Vocalyz\Test\bin\Debug\Vocalyz.dll
+C:\Users\Skinz\Desktop\Vocalyz\Test\bin\Debug\Vocalyz.pdb
+C:\Users\Skinz\Desktop\Vocalyz\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Skinz\Desktop\Vocalyz\Test\obj\Debug\Test.TestForm.resources
+C:\Users\Skinz\Desktop\Vocalyz\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Skinz\Desktop\Vocalyz\Test\obj\Debug\Test.csproj.GenerateResource.Cache

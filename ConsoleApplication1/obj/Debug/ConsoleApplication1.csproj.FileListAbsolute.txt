@@ -1,0 +1,8 @@
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\bin\Debug\Vocalyz.dll
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\bin\Debug\Vocalyz.pdb
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Skinz\Desktop\Vocalyz\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

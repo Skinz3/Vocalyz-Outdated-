@@ -1,0 +1,11 @@
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Vocalyz\obj\Debug\Vocalyz.csprojResolveAssemblyReference.cache
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Vocalyz\bin\Debug\Vocalyz.dll
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Vocalyz\bin\Debug\Vocalyz.pdb
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Vocalyz\obj\Debug\Vocalyz.dll
+C:\Users\Freak\Documents\Visual Studio 2013\Projects\Vocalyz2\Vocalyz\obj\Debug\Vocalyz.pdb
+C:\Users\Skinz\Desktop\Vocalyz\Vocalyz\bin\Debug\Vocalyz.dll
+C:\Users\Skinz\Desktop\Vocalyz\Vocalyz\bin\Debug\Vocalyz.pdb
+C:\Users\Skinz\Desktop\Vocalyz\Vocalyz\obj\Debug\Vocalyz.csprojResolveAssemblyReference.cache
+C:\Users\Skinz\Desktop\Vocalyz\Vocalyz\obj\Debug\Vocalyz.dll
+C:\Users\Skinz\Desktop\Vocalyz\Vocalyz\obj\Debug\Vocalyz.pdb
+C:\Users\Skinz\Desktop\Vocalyz\Vocalyz\bin\Debug\NAudio.xml
